@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\micha\\.nuget\\packages\\": {}
+    "C:\\Users\\korel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\codin\\PO\\PO5\\PO5.csproj",
+      "projectUniqueName": "C:\\Users\\korel\\Documents\\UNI\\NPTO\\ps5_6\\majkula\\npto\\PO5.csproj",
       "projectName": "PO5",
-      "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\codin\\PO\\PO5\\PO5.csproj",
-      "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\codin\\PO\\PO5\\obj\\",
+      "projectPath": "C:\\Users\\korel\\Documents\\UNI\\NPTO\\ps5_6\\majkula\\npto\\PO5.csproj",
+      "packagesPath": "C:\\Users\\korel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\korel\\Documents\\UNI\\NPTO\\ps5_6\\majkula\\npto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\korel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

@@ -1,4 +1,6 @@
-﻿namespace kartoteka
+﻿// minecraft funny momenmts
+
+namespace kartoteka
 {
 class Osoba
 {
