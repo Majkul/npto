@@ -1,0 +1,4 @@
+C:\Users\micha\OneDrive\Desktop\codin\PO\PO5\obj\Debug\net8.0\PO5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\codin\PO\PO5\obj\Debug\net8.0\PO5.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\codin\PO\PO5\obj\Debug\net8.0\PO5.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\codin\PO\PO5\obj\Debug\net8.0\PO5.csproj.CoreCompileInputs.cache
