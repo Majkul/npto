@@ -57,3 +57,5 @@ class Osoba
         }
     }
 }
+
+//To jest zmiana do NPTO
