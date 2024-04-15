@@ -57,3 +57,8 @@ class Osoba
         }
     }
 }
+class Program{
+    int Main(){
+        Console.Log("aha25");
+    }
+}
