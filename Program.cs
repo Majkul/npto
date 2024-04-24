@@ -60,4 +60,12 @@ class Osoba
     }
 }
 
+class Program{
+    int Main(){
+        Console.Log("aha25");
+    }
+}
+
 //To jest zmiana do NPTO
+
+//fix you damn branch
