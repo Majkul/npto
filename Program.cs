@@ -1,4 +1,6 @@
-﻿namespace kartoteka
+﻿// minecraft funny momenmts
+
+namespace kartoteka
 {
 class Osoba
 {
@@ -57,8 +59,13 @@ class Osoba
         }
     }
 }
+
 class Program{
     int Main(){
         Console.Log("aha25");
     }
 }
+
+//To jest zmiana do NPTO
+
+//fix you damn branch
